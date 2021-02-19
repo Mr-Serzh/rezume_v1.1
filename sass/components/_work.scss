@@ -1,0 +1,57 @@
+// WORK
+.work-experience-container {
+  margin-top: 30px;
+
+  @media screen and (min-width: $desktop) {
+    margin-top: 50px;
+  }
+}
+
+.compani-container {
+  margin-top: 15px;
+
+  & .list {
+    list-style: inside;
+  }
+
+  & .item {
+    color: $accent-text-color;
+  }
+}
+
+.compani-title {
+  color: $title-text-color;
+}
+
+.period {
+  color: $period-text-color;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.36px;
+  margin-bottom: 5px;
+
+  .trait {
+    color: $title-text-color;
+  }
+}
+
+.compani-text {
+  color: $primary-text-color;
+}
+
+.education-container {
+  margin-top: 30px;
+
+  @media screen and (min-width: $desktop) {
+    margin-top: 50px;
+  }
+
+  & .list {
+    list-style: inside;
+  }
+
+  & .item {
+    color: $accent-text-color;
+  }
+}
+// end WORK

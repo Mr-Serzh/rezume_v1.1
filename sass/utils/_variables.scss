@@ -1,0 +1,21 @@
+// Color
+$sidebar-text-color: #ffffff;
+$secondary-sidebar-text-color: #dfe0e3;
+$primary-text-color: #595959;
+$title-text-color: #212121;
+$period-text-color: #a8a8a8;
+$accent-text-color: #276fdb;
+$body-bg-color: #f5f7fa;
+$primary-bg-color: #ffffff;
+$sidebar-bg-color: #1e2939;
+
+// Transition
+$transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+// Screen breakpoints
+$mobile: 480px;
+$tablet: 768px;
+$desktop: 1200px;
+
+// Fo adaptive font
+$maxWidth: 1200;

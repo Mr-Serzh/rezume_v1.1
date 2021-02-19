@@ -1,0 +1,22 @@
+// @include adaptiv-font(24, 40);
+
+// Flexs
+@mixin centeredFlex($type: flex) {
+  display: $type;
+  align-items: center;
+  justify-content: center;
+}
+
+// Outline
+@mixin outline($type: tomato) {
+  outline: 1px solid $type;
+}
+
+// Fo adaptive font
+@mixin adaptiv-font($mobSize, $pcSize) {
+  $addSize: $pcSize - $mobSize;
+  $maxWidth: $maxWidth - 320;
+  font-size: calc(
+    #{$mobSize + px} + #{$addSize} * ((100vw - 320px) / #{$maxWidth})
+  );
+}
