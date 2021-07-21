@@ -1,9 +1,9 @@
 :root {
+  --primary-text-color: #595959;
   --sidebar-text-color: #ffffff;
   --secondary-sidebar-text-color: #dfe0e3;
-  /* --sidebar-text-color: #212121; */
-  /* --secondary-sidebar-text-color: #595959; */
-  --primary-text-color: #595959;
+  /* --sidebar-text-color: #212121;
+  --secondary-sidebar-text-color: #595959; */
   --title-text-color: #212121;
   --period-text-color: #a8a8a8;
   --accent-text-color: #276fdb;
