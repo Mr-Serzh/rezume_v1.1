@@ -191,19 +191,19 @@ img {
   margin-top: 50px;
 }
 
-.compani-container {
+.company-container {
   margin-top: 15px;
 }
 
-.compani-container .list {
+.company-container .list {
   list-style: inside;
 }
 
-.compani-container .item {
+.company-container .item {
   color: var(--accent-text-color);
 }
 
-.compani-title {
+.company-title {
   color: var(--title-text-color);
 }
 
@@ -219,7 +219,7 @@ img {
   color: var(--title-text-color);
 }
 
-.compani-text {
+.company-text {
   color: var(--primary-text-color);
 }
 
