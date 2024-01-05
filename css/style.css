@@ -155,7 +155,7 @@ img {
   color: var(--title-text-color);
 }
 
-/* --- PROJEST --- */
+/* --- PROJECT --- */
 .projects-containet {
   margin-top: 50px;
 }
@@ -184,26 +184,26 @@ img {
   border-bottom: 1px dotted var(--primary-text-color);
   margin: 0 6px 6px 0;
 }
-/* --- end PROJEST --- */
+/* --- end PROJEcT --- */
 
 /* --- WORK --- */
 .work-experience-container {
   margin-top: 50px;
 }
 
-.compani-container {
+.company-container {
   margin-top: 15px;
 }
 
-.compani-container .list {
+.company-container .list {
   list-style: inside;
 }
 
-.compani-container .item {
+.company-container .item {
   color: var(--accent-text-color);
 }
 
-.compani-title {
+.company-title {
   color: var(--title-text-color);
 }
 
@@ -219,7 +219,7 @@ img {
   color: var(--title-text-color);
 }
 
-.compani-text {
+.company-text {
   color: var(--primary-text-color);
 }
 
