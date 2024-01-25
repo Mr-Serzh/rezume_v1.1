@@ -18,5 +18,5 @@ function createSkillsList (skillArray, listElementId){
   })
 }
 
-createSkillsList(techSkills, 'tech-skills-list')
-createSkillsList(softSkills, 'soft-skills-list')
+// createSkillsList(techSkills, 'tech-skills-list')
+// createSkillsList(softSkills, 'soft-skills-list')
